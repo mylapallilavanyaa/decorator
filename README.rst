@@ -1,6 +1,10 @@
 Decorators for Humans
 =====================
 
+.. image:: https://assets.piptrends.com/get-last-month-downloads-badge/decorator.svg
+    :alt: decorator Downloads Last Month by pip Trends
+    :target: https://piptrends.com/package/decorator
+
 The goal of the decorator module is to make it easy to define
 signature-preserving function decorators and decorator factories.
 It also includes an implementation of multiple dispatch and other niceties
